@@ -7,6 +7,7 @@ import urllib2 , cookielib , random , re , sys , socket , time , httplib , ssl
        # Github : https://github.com/ciku370   #
        #########################################
 
+
 if sys.platform == "linux2" or sys.platform == "linux":
 	R = ("\033[31m")
 	W = ("\033[0;1m")
